@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chinesechars>
+   <chinesechar>
+        <tone>4</tone>
+        <character>這</character>
+        <pinyin>Zhè</pinyin>
+        <mean>ini</mean>      
+        <clue>satu double quote diatas huruf z yang ekornya menyangga kotak dan tumpukan garis horizontal</clue>
+		<use>這 是 ... Zhè Shì xxx (sesuatu| barang/makanan/apapun)</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>5</tone>
+        <character>嗎</character>
+        <pinyin>Ma</pinyin>
+        <mean>(Akhiran, digunakan pada kalimat tanya)</mean>      
+        <clue></clue>
+		<use>那 是 ... 嗎? Nà Shì xxx Ma? (sesuatu| barang/makanan/apapun)</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>4</tone>
+        <character>那</character>
+        <pinyin>Nà</pinyin>
+        <mean>itu</mean>      
+        <clue>huruf kapital A dan B</clue>
+		<use>那 是 ... 嗎? Nà Shì xxx Ma? (sesuatu| barang/makanan/apapun)</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>3</tone>
+        <character>有</character>
+        <pinyin>Yǒu</pinyin>
+        <mean>Mempunyai</mean>      
+        <clue></clue>
+		<use>我有可樂 Wǒ yǒu kělè?</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>2</tone>
+        <character>茶</character>
+        <pinyin>Chá</pinyin>
+        <mean>Teh</mean>      
+        <clue>rumah punya kaki 3 dan antena</clue>
+		<use>紅茶 Hóngchá</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>2</tone>
+        <character>紅茶</character>
+        <pinyin>Hóngchá</pinyin>
+        <mean>Teh Hitam</mean>      
+        <clue>huruf W miring punya 3 kaki dan angka 1 romawi, rumah punya kaki 3 dan antena</clue>
+		<use>這 是 紅茶 Zhè Shì Hóngchá</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>1,2</tone>
+        <character>烏龍</character>
+        <pinyin>Wū lóng</pinyin>
+        <mean>Oolong</mean>      
+        <clue></clue>
+		<use>烏龍茶 Wū lóng chá</use>
+   </chinesechar>
+    <chinesechar>
+        <tone>3,4</tone>
+        <character>飲料</character>
+        <pinyin>Yǐnliào</pinyin>
+        <mean>Minuman</mean>      
+        <clue></clue>
+		<use>你們有什麼飲料？ Nǐmen yǒu shé me yǐnliào?</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>1</tone>
+        <character>咖啡</character>
+        <pinyin>Kāfēi</pinyin>
+        <mean>Kopi</mean>      
+        <clue></clue>
+		<use>我有咖啡 Wǒ yǒu kāfēi</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>3,4</tone>
+        <character>可樂</character>
+        <pinyin>kělè</pinyin>
+        <mean>Cola</mean>      
+        <clue></clue>
+		<use>我有可樂 Wǒ yǒu kělè</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>3</tone>
+        <character>老闆</character>
+        <pinyin>Lǎobǎn</pinyin>
+        <mean>Owner</mean>      
+        <clue>huruf T kecil yang dicoret tengahnya, minion</clue>
+		<use>老闆， 有咖啡嗎？ Lǎobǎn, yǒu kāfēi ma?</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>3</tone>
+        <character>筆</character>
+        <pinyin>Bǐ</pinyin>
+        <mean>Pen</mean>      
+        <clue>garpu dengan bintang dua di atasnya</clue>
+		<use>我有筆 Wǒ yǒu bǐ</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>1</tone>
+        <character>書</character>
+        <pinyin>Shū</pinyin>
+        <mean>Buku</mean>      
+        <clue>kotak bertumpuk dengan garpu</clue>
+		<use>我有書 Wǒ yǒu shū</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>4</tone>
+        <character>錢</character>
+        <pinyin>Qián</pinyin>
+        <mean>Uang</mean>      
+        <clue>rumah dan dua huruf t kecil di samping kanan</clue>
+		<use>我有錢 Wǒ yǒu qián</use>
+   </chinesechar>
+</chinesechars>
